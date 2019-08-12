@@ -26,7 +26,7 @@ function serial()
     }
     return true;
 }
-
+1234
 ?>
 
 </body>
